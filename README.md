@@ -12,10 +12,10 @@ And the correct answer here is "Watermelon, Ginger" (in any order). Let's see wh
 Apparently, the problem was understood, and even the steps towards a solution make sense. But the spatial computation is not quite there. This repository contains code to generate more instances of the above problem, and as the scores below indicate, this solution attempt indicated a pattern across all those.  
 
 ### Scores
-
-|  | GPT-4o-mini |  GPT-4o-mini + Chain of Thought | GPT-4o | GPT-4o + Chain of Thought
-| - | ----------- | -------------------------- | ------ | ------------------------- |
-| Accuracy | 0.02 |  0.04 | 0.08 | 0.12 |
+With a sample size of `n=50`, we obtain
+|  | GPT-4o-mini |  GPT-4o-mini + Chain of Thought | GPT-4o | GPT-4o + Chain of Thought | Random Baseline |
+| - | ----------- | -------------------------- | ------ | ------------------------- | -------------------|
+| Accuracy | 0.02 |  0.04 | 0.08 | 0.12 | 0.04 |
 
 ### How to run
 This eval is implemented in the UK AI Safety Institute's [Inspect](https://inspect.ai-safety-institute.org.uk) framework. After installing that, you can do a test run with `inspect eval picturebooks --model openai/gpt-4o-mini --limit 1` in the main directory and remove the `limit` parameter to go through all samples.
