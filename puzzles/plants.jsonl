@@ -1,0 +1,50 @@
+{"id": "plants-0", "correct": ["ginger"], "incorrect": ["pineapple", "kiwi"], "image": "puzzles/plants-0.png"}
+{"id": "plants-1", "correct": ["apple"], "incorrect": ["ginger", "banana", "pear", "kiwi", "avocado"], "image": "puzzles/plants-1.png"}
+{"id": "plants-2", "correct": ["banana", "watermelon"], "incorrect": ["avocado", "pear", "kiwi"], "image": "puzzles/plants-2.png"}
+{"id": "plants-3", "correct": ["watermelon"], "incorrect": ["avocado", "banana", "pear", "kiwi"], "image": "puzzles/plants-3.png"}
+{"id": "plants-4", "correct": ["kiwi"], "incorrect": ["apple", "pear", "ginger"], "image": "puzzles/plants-4.png"}
+{"id": "plants-5", "correct": ["kiwi"], "incorrect": ["ginger", "pineapple", "watermelon", "apple", "avocado"], "image": "puzzles/plants-5.png"}
+{"id": "plants-6", "correct": ["apple", "kiwi"], "incorrect": ["watermelon"], "image": "puzzles/plants-6.png"}
+{"id": "plants-7", "correct": ["banana", "pineapple", "pear"], "incorrect": ["kiwi"], "image": "puzzles/plants-7.png"}
+{"id": "plants-8", "correct": ["avocado", "pear"], "incorrect": ["apple", "banana"], "image": "puzzles/plants-8.png"}
+{"id": "plants-9", "correct": ["kiwi"], "incorrect": ["apple", "watermelon", "pear", "ginger"], "image": "puzzles/plants-9.png"}
+{"id": "plants-10", "correct": ["avocado", "pear", "watermelon", "ginger"], "incorrect": ["apple", "banana"], "image": "puzzles/plants-10.png"}
+{"id": "plants-11", "correct": ["banana"], "incorrect": ["apple", "kiwi"], "image": "puzzles/plants-11.png"}
+{"id": "plants-12", "correct": ["apple", "ginger"], "incorrect": ["pineapple"], "image": "puzzles/plants-12.png"}
+{"id": "plants-13", "correct": ["watermelon", "ginger"], "incorrect": ["banana", "pineapple"], "image": "puzzles/plants-13.png"}
+{"id": "plants-14", "correct": ["apple", "pineapple"], "incorrect": ["avocado"], "image": "puzzles/plants-14.png"}
+{"id": "plants-15", "correct": ["apple", "pear"], "incorrect": ["banana"], "image": "puzzles/plants-15.png"}
+{"id": "plants-16", "correct": ["pineapple", "pear", "ginger"], "incorrect": ["watermelon", "kiwi"], "image": "puzzles/plants-16.png"}
+{"id": "plants-17", "correct": ["avocado", "apple", "ginger"], "incorrect": ["banana", "pineapple"], "image": "puzzles/plants-17.png"}
+{"id": "plants-18", "correct": ["kiwi"], "incorrect": ["banana"], "image": "puzzles/plants-18.png"}
+{"id": "plants-19", "correct": ["apple", "banana", "pear", "ginger"], "incorrect": [], "image": "puzzles/plants-19.png"}
+{"id": "plants-20", "correct": ["avocado", "banana", "pear"], "incorrect": ["apple", "watermelon"], "image": "puzzles/plants-20.png"}
+{"id": "plants-21", "correct": ["banana", "pineapple", "pear", "ginger"], "incorrect": ["apple", "avocado"], "image": "puzzles/plants-21.png"}
+{"id": "plants-22", "correct": ["watermelon", "ginger"], "incorrect": ["kiwi"], "image": "puzzles/plants-22.png"}
+{"id": "plants-23", "correct": ["watermelon"], "incorrect": ["avocado", "pineapple", "ginger"], "image": "puzzles/plants-23.png"}
+{"id": "plants-24", "correct": ["avocado", "watermelon"], "incorrect": ["kiwi", "pear", "ginger"], "image": "puzzles/plants-24.png"}
+{"id": "plants-25", "correct": ["avocado", "pear", "ginger"], "incorrect": ["banana", "pineapple", "watermelon", "kiwi"], "image": "puzzles/plants-25.png"}
+{"id": "plants-26", "correct": ["ginger", "pineapple", "kiwi"], "incorrect": ["apple"], "image": "puzzles/plants-26.png"}
+{"id": "plants-27", "correct": ["ginger"], "incorrect": ["avocado", "banana", "watermelon", "pear"], "image": "puzzles/plants-27.png"}
+{"id": "plants-28", "correct": ["avocado", "banana"], "incorrect": ["apple", "kiwi"], "image": "puzzles/plants-28.png"}
+{"id": "plants-29", "correct": ["banana", "pineapple", "watermelon", "kiwi"], "incorrect": ["ginger"], "image": "puzzles/plants-29.png"}
+{"id": "plants-30", "correct": ["banana"], "incorrect": ["ginger", "pineapple", "apple", "kiwi", "avocado"], "image": "puzzles/plants-30.png"}
+{"id": "plants-31", "correct": ["banana"], "incorrect": ["ginger", "pear", "kiwi"], "image": "puzzles/plants-31.png"}
+{"id": "plants-32", "correct": ["kiwi", "pineapple", "pear", "ginger"], "incorrect": ["watermelon"], "image": "puzzles/plants-32.png"}
+{"id": "plants-33", "correct": ["kiwi"], "incorrect": ["apple", "pineapple"], "image": "puzzles/plants-33.png"}
+{"id": "plants-34", "correct": ["watermelon", "ginger"], "incorrect": ["avocado", "kiwi"], "image": "puzzles/plants-34.png"}
+{"id": "plants-35", "correct": ["apple", "pear"], "incorrect": ["banana", "kiwi"], "image": "puzzles/plants-35.png"}
+{"id": "plants-36", "correct": ["apple", "kiwi"], "incorrect": ["avocado", "banana", "pear", "ginger"], "image": "puzzles/plants-36.png"}
+{"id": "plants-37", "correct": ["ginger", "pineapple", "watermelon", "kiwi"], "incorrect": ["avocado"], "image": "puzzles/plants-37.png"}
+{"id": "plants-38", "correct": ["apple", "avocado", "watermelon"], "incorrect": ["pear", "ginger"], "image": "puzzles/plants-38.png"}
+{"id": "plants-39", "correct": ["pear", "ginger"], "incorrect": ["apple", "banana", "watermelon"], "image": "puzzles/plants-39.png"}
+{"id": "plants-40", "correct": ["banana", "pineapple"], "incorrect": ["ginger", "pear", "watermelon", "kiwi", "avocado"], "image": "puzzles/plants-40.png"}
+{"id": "plants-41", "correct": ["avocado", "pineapple", "pear"], "incorrect": ["banana", "watermelon", "ginger"], "image": "puzzles/plants-41.png"}
+{"id": "plants-42", "correct": ["apple", "avocado", "pineapple"], "incorrect": ["pear", "kiwi"], "image": "puzzles/plants-42.png"}
+{"id": "plants-43", "correct": ["avocado", "pineapple", "pear", "kiwi"], "incorrect": ["apple"], "image": "puzzles/plants-43.png"}
+{"id": "plants-44", "correct": ["apple", "watermelon"], "incorrect": ["pineapple", "pear", "kiwi"], "image": "puzzles/plants-44.png"}
+{"id": "plants-45", "correct": ["pineapple", "pear"], "incorrect": ["ginger"], "image": "puzzles/plants-45.png"}
+{"id": "plants-46", "correct": ["avocado", "kiwi"], "incorrect": ["pineapple", "pear", "ginger"], "image": "puzzles/plants-46.png"}
+{"id": "plants-47", "correct": ["avocado", "banana"], "incorrect": ["pear", "ginger"], "image": "puzzles/plants-47.png"}
+{"id": "plants-48", "correct": ["banana"], "incorrect": ["apple", "avocado"], "image": "puzzles/plants-48.png"}
+{"id": "plants-49", "correct": ["pineapple", "kiwi"], "incorrect": ["banana", "pear", "watermelon", "apple", "avocado"], "image": "puzzles/plants-49.png"}
