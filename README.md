@@ -24,4 +24,4 @@ This eval is implemented in the UK AI Safety Institute's [Inspect](https://inspe
 Many thanks to Meike Akveld for authoring the original Kangoroo problem. You can read an interview about her work [here](https://johnian.joh.cam.ac.uk/news/career-spotlight-meike-akveld/).
 
 ### License
-Code and images are the author's and licensed under MIT
+Code and images are the author's, and licensed under MIT.
