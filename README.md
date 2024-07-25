@@ -1,5 +1,5 @@
 # Picturebooks
-Which objects are visible through the holes in a picture book? This visual task is easy for adults, pretty doable for primary school children, but perhaps hard for current vision transformers.
+Which objects are visible through the holes in a picture book? This visual task is easy for adults, pretty doable for primary school children, but perhaps hard for current (July 2024) vision transformers.
 
 The question is closely adapted from a problem for grades 3 and 4 of the international Kangoroo math event: "In the following image, you can see an open picture book. There are holes in its cover. On the first page, there are pictures of objects. Which pictures are visible when the book is closed?" We also give a list of the images to be chosen from, so in this case `"Avocado", "Ginger", "Kiwi", "Watermelon"`.
 
