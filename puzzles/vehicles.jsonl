@@ -1,5 +1,0 @@
-{"id": "vehicles-0", "correct": ["jeep"], "incorrect": ["truck", "motorcycle", "tractor"], "image": "puzzles/vehicles-0.png"}
-{"id": "vehicles-1", "correct": ["car"], "incorrect": ["truck", "motorcycle", "tractor"], "image": "puzzles/vehicles-1.png"}
-{"id": "vehicles-2", "correct": ["truck", "car", "tractor"], "incorrect": [], "image": "puzzles/vehicles-2.png"}
-{"id": "vehicles-3", "correct": ["car", "motorcycle", "tractor"], "incorrect": ["truck"], "image": "puzzles/vehicles-3.png"}
-{"id": "vehicles-4", "correct": ["car", "tractor"], "incorrect": ["jeep"], "image": "puzzles/vehicles-4.png"}
