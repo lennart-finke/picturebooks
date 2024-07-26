@@ -13,15 +13,16 @@ Apparently, the problem was understood, and even the steps towards a solution ma
 
 ### Scores
 With a sample size of `n=50`, we obtain
-|  | GPT-4o-mini |  GPT-4o-mini + Chain of Thought | GPT-4o | GPT-4o + Chain of Thought | Random Baseline |
+|  | GPT-4o-mini |  GPT-4o-mini + Chain of Thought | GPT-4o | **GPT-4o + Chain of Thought** | Random Baseline |
 | - | ----------- | -------------------------- | ------ | ------------------------- | -------------------|
 | Accuracy | 0.02 |  0.04 | 0.08 | 0.12 | 0.04 |
+| Jaccard | 0.44 | 0.43 | 0.38 | 0.45 | 0.2 | 
 
 ### How to run
 This eval is implemented in the UK AI Safety Institute's [Inspect](https://inspect.ai-safety-institute.org.uk) framework. After installing that, you can do a test run with `inspect eval picturebooks --model openai/gpt-4o-mini --limit 1` in the main directory and remove the `limit` parameter to go through all samples.
 
 ### Heritage
-Many thanks to Meike Akveld for authoring the original Kangoroo problem. You can read an interview about her work [here](https://johnian.joh.cam.ac.uk/news/career-spotlight-meike-akveld/).
+Many thanks to the Kangoroo math competition team for the task idea. You can read an interview with mathematician Meike Akveld, in which the problem is featured, [here](https://johnian.joh.cam.ac.uk/news/career-spotlight-meike-akveld/).
 
 ### License
 Code and images are the author's, and licensed under MIT.
